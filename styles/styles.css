@@ -12,8 +12,7 @@ body{
     display: flex;
     flex-direction: column;
     width: 100%;
-
-    /*margin: auto;*/
+    margin: auto;
 }
 
 #header{
@@ -22,9 +21,6 @@ body{
     gap: 32px;
     background-color: #1f2937;
     padding-bottom: 32px;
-}
-#header *{
-    flex: auto;
 }
 
 #logo-nav-div{
@@ -101,7 +97,6 @@ img{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    flex-wrap: wrap;
 
 }
 #random-boxes > .random-info{
