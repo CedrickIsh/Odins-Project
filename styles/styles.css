@@ -108,6 +108,7 @@ img{
     flex-direction: column;
     flex-basis: 18%;
     text-align: center;
+    flex-wrap: wrap;
 }
 div.random-info > .image-holder{
     border: 1px solid #3882f6;
